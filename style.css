@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Ubuntu:wght@300&display=swap');
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Roboto', sans-serif; 
+  color: black;
+}
+
+.button{
+  width: 80px;
+  padding: 30px;
+  margin: 0 3px;
+  border: 2px solid rgb(67, 26, 26);
+  border-radius: 9px;
+  cursor: pointer;
+  color: rgb(151, 17, 37);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.row{
+  margin: 8px 0;
+  color: rgb(170, 14, 14);
+}
+.row input{
+  width: 348px;
+  font-size: 40px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 10px;
+    color: rgb(196, 15, 15);
+}
+.text-center{
+    color: darkviolet;
+}
+
